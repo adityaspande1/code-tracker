@@ -1,0 +1,10 @@
+
+[2025-03-19T16:18:35.680Z] MODIFIED - src/core/getStacks.ts
+[2025-03-19T16:19:03.040Z] MODIFIED - src/cli/index.ts
+[2025-03-19T16:19:32.916Z] CREATED - dist/stacks/stacks/frontend/react-vite/meta-data.json
+[2025-03-19T16:19:32.916Z] CREATED - dist/stacks/stacks/backend/express/meta-data.json
+[2025-03-19T16:19:32.916Z] MODIFIED - dist/cli/index.js
+[2025-03-19T16:19:32.916Z] MODIFIED - dist/cli/prompts/selectBackend.js
+[2025-03-19T16:19:32.916Z] MODIFIED - dist/cli/prompts/selectFrontend.js
+[2025-03-19T16:19:32.916Z] MODIFIED - dist/cli/utils/detectLanguage.js
+[2025-03-19T16:19:32.916Z] MODIFIED - dist/core/getStacks.js
